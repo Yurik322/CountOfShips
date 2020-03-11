@@ -1,0 +1,7 @@
+D:\MY PROGRAMS\Projects\C#\!INTELLIAS\CountOfShips\CountOfShips\bin\Debug\CountOfShips.exe.config
+D:\MY PROGRAMS\Projects\C#\!INTELLIAS\CountOfShips\CountOfShips\bin\Debug\CountOfShips.exe
+D:\MY PROGRAMS\Projects\C#\!INTELLIAS\CountOfShips\CountOfShips\bin\Debug\CountOfShips.pdb
+D:\MY PROGRAMS\Projects\C#\!INTELLIAS\CountOfShips\CountOfShips\obj\Debug\CountOfShips.csprojAssemblyReference.cache
+D:\MY PROGRAMS\Projects\C#\!INTELLIAS\CountOfShips\CountOfShips\obj\Debug\CountOfShips.csproj.CoreCompileInputs.cache
+D:\MY PROGRAMS\Projects\C#\!INTELLIAS\CountOfShips\CountOfShips\obj\Debug\CountOfShips.exe
+D:\MY PROGRAMS\Projects\C#\!INTELLIAS\CountOfShips\CountOfShips\obj\Debug\CountOfShips.pdb
